@@ -10,5 +10,5 @@ Student Info
 =========================
 
 * Student Name: Phan Duc Lam  
-* Student ID: 23bi14245
+* Student ID: 23BI14245
 * Student Group ID: Not-for-now
